@@ -16,3 +16,7 @@ Username = 'Ian Johnston'
 user_name = 'Ian Johnston'
 
 # Bonus question: Why might I choose user_name instead of username here?
+
+string1 = "Ian's thing"
+she_said = "That is the "real thing""
+complex_string = 'That\'s the "real thing"'

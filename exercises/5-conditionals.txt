@@ -5,7 +5,7 @@
 0
 []
 12.1
-''
+'' (single-quote characters)
 
 Are the results what you expected?
 
