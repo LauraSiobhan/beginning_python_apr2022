@@ -33,3 +33,9 @@ def make_pizza(*toppings, **instructions):
     print('With the following special instructions:')
     for key, value in instructions.items():
         print(f'{key}: {value}')
+
+def say_name():
+    """ print out the current module's name """
+    print(f'__name__ is currently {__name__}')
+
+say_name()
